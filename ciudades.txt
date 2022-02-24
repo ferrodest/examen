@@ -3,3 +3,6 @@ Salamanca
 León
 Ávila
 Cáceres
+Palencia
+Valladolid
+Burgos
